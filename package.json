@@ -1,0 +1,14 @@
+{
+  "name": "storybook-addon-react-to-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pretty": "^2.0.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {
+    "@storybook/addons": "^5.2.5"
+  }
+}
