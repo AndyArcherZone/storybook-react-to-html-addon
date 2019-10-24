@@ -1,7 +1,9 @@
 # storybook-react-to-html-addon
 
+## Reasoning
+This is useful if you're wanting to use React going forward but perhaps you have to support a lot of legacy before a switch. This will allow you to develop your react component library whilst maintaining any output required for legacy systems. Win win win.
 
-## setup
+## Setup
 
 In your `addons.js` add the following line: 
 
@@ -10,7 +12,7 @@ In your `addons.js` add the following line:
 import 'storybook-react-to-html-addon/register';
 ```
 
-## usage
+## Usage
 
 In your story file add the following import: 
 
